@@ -9,3 +9,7 @@ This application gives the user an interface to interact with and play the [Knig
 In simple terms, the user is meant to use a Knight Chess piece to touch every square on the board one time and one time only. Meaning, the Knight cannot come back into contact with a square that has already been touched, and every square on the board must be touched. By the end of the game a winning solution should look similar to this:
 
 ![Knight's Puzzle solved](https://upload.wikimedia.org/wikipedia/commons/f/f4/Knight%27s_Tour_of_130x130_Square_Board.png)
+
+### Example Gameplay
+
+Squares needed to be traversed will be marked with an underscore _ and squares already traversed an astrisk *
