@@ -1,4 +1,4 @@
-# Knight's-Tour
+# Knight's Tour
 
 ![Playfield](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
